@@ -1,0 +1,10 @@
+.git
+.gitignore
+.gitattributes
+.assetsignore
+wrangler.jsonc
+node_modules
+build.py
+README.md
+src
+assets/video
